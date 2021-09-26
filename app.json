@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "blze_pose_golf",
+    "slug": "blze_pose_golf",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "blze_pose_golf"
+}
